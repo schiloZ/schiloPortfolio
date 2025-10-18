@@ -40,7 +40,7 @@ export default function Home2() {
                   <div className="p-lg-5 p-md-4 p-3">
                     <div className="text-secondary-2 d-flex align-items-center mb-3">
                       <span className="opacity-75">&lt;span&gt;</span>
-                      <div className="text-dark ms-2">
+                      <div className="text-white ms-2">
                         <div className="typewriter">
                           <h1 className="fs-6 fw-medium mb-0">
                             Hey, I'm Schilo
@@ -62,7 +62,7 @@ export default function Home2() {
 
                     <div className="mb-4 mb-lg-6 text-secondary-2">
                       <span className="opacity-75">&lt;p&gt;</span>
-                      <p className="d-inline text-dark mb-0">
+                      <p className="d-inline text-white mb-0">
                         With expertise in cutting-edge technologies such as{" "}
                         <span className="text-secondary-2 fw-medium">
                           NodeJS

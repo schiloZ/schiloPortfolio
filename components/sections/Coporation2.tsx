@@ -415,7 +415,7 @@ export default function Coporation2() {
                     <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">15 Jul:</p>
-                        <span className="text-dark">
+                        <span className="text-white">
                           Jarvis AFG AGENT IA CHAT APPLICATION
                         </span>
                       </div>
@@ -423,13 +423,13 @@ export default function Coporation2() {
                     <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">30 Jun:</p>
-                        <span className="text-dark">AFG-FIAB-LLM-APP WEB</span>
+                        <span className="text-white">AFG-FIAB-LLM-APP WEB</span>
                       </div>
                     </li>
                     <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">26 May:</p>
-                        <span className="text-dark">
+                        <span className="text-white">
                           E-GYM FITNESS-APP-WEB-MOBILE
                         </span>
                       </div>
@@ -437,7 +437,7 @@ export default function Coporation2() {
                     <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">17 Apr:</p>
-                        <span className="text-dark">
+                        <span className="text-white">
                           RESI KING Application de gestion des residence
                         </span>
                       </div>
@@ -445,7 +445,7 @@ export default function Coporation2() {
                     <li className="position-relative z-1">
                       <div className="d-flex align-items-center gap-2">
                         <p className="text-300 text-nowrap">05 Mar:</p>
-                        <span className="text-dark">SCHIZ TECH NEXUS</span>
+                        <span className="text-white">SCHIZ TECH NEXUS</span>
                       </div>
                     </li>
                   </ul>

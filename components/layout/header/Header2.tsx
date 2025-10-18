@@ -99,7 +99,7 @@ export default function Header2({
                   </div>
                 </div>
               </div>
-              <ThemeSwitch />
+              {/* <ThemeSwitch /> */}
             </nav>
           </div>
           {/* offCanvas-menu */}

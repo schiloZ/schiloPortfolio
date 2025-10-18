@@ -34,7 +34,7 @@ export default function Education2() {
                             <span className="text-primary-2">
                               International University Of Grand Bassam
                             </span>
-                            <p className="text-dark">
+                            <p className="text-white">
                               Bachelor’s Degree in Data Science
                             </p>
                           </div>
@@ -47,7 +47,7 @@ export default function Education2() {
                           </p>
                           <div>
                             <span className="text-primary-2">AI Accelera</span>
-                            <p className="text-dark">
+                            <p className="text-white">
                               2025 Bootcamp: Generative AI, LLM Apps, AI Agents
                             </p>
                           </div>
@@ -62,7 +62,7 @@ export default function Education2() {
                             <span className="text-primary-2">
                               Cours Secondaire Methodiste
                             </span>
-                            <p className="text-dark">Baccalaureat C Science</p>
+                            <p className="text-white">Baccalaureat C Science</p>
                           </div>
                         </div>
                       </li>
@@ -102,7 +102,7 @@ export default function Education2() {
                           <span className="text-primary-2">
                             Tracking and Re-Identification for pedestrian
                           </span>
-                          <p className="text-dark">
+                          <p className="text-white">
                             Utilized computer vision techniques for pedestrian
                             tracking and re-identification.
                           </p>
@@ -118,7 +118,7 @@ export default function Education2() {
                           <span className="text-primary-2">
                             Advanced Data Analytics with Big Data Tools
                           </span>
-                          <p className="text-dark">
+                          <p className="text-white">
                             Utilized big data tools for advanced analytics and
                             insights using Power BI.
                           </p>
@@ -134,7 +134,7 @@ export default function Education2() {
                           <span className="text-primary-2">
                             AI-Driven User Experience Personalization
                           </span>
-                          <p className="text-dark">
+                          <p className="text-white">
                             Leveraged AI to personalize user experiences based
                             on behavior.
                           </p>
