@@ -14,13 +14,13 @@ export default function Static2() {
                       <i className="ri-shape-line text-primary-2" />
                       <h2 className="text-300 my-0 fs-50">
                         <CountUp
-                          className="odometer text-dark fw-medium"
+                          className="odometer text-white fw-medium"
                           enableScrollSpy={true}
                           end={4}
                         />
                         <span className="fs-50 text-300 mb-0">+</span>
                       </h2>
-                      <p className="fs-6 mb-0 text-dark">Year Experience</p>
+                      <p className="fs-6 mb-0 text-white">Year Experience</p>
                     </div>
                   </div>
                 </div>
@@ -30,13 +30,13 @@ export default function Static2() {
                       <i className="ri-computer-line text-primary-2" />
                       <h2 className="text-300 my-0 fs-50">
                         <CountUp
-                          className="odometer text-dark fw-medium"
+                          className="odometer text-white fw-medium"
                           enableScrollSpy={true}
                           end={40}
                         />
                         <span className="fs-50 text-300 mb-0">+</span>
                       </h2>
-                      <p className="fs-6 mb-0 text-dark">Projects Completed</p>
+                      <p className="fs-6 mb-0 text-white">Projects Completed</p>
                     </div>
                   </div>
                 </div>
@@ -46,13 +46,13 @@ export default function Static2() {
                       <i className="ri-service-line text-primary-2" />
                       <h2 className="text-300 my-0 fs-50">
                         <CountUp
-                          className="odometer text-dark fw-medium"
+                          className="odometer text-white fw-medium"
                           enableScrollSpy={true}
                           end={10}
                         />
                         <span className="fs-50 text-300 mb-0">+</span>
                       </h2>
-                      <p className="fs-6 mb-0 text-dark">Satisfied Clients</p>
+                      <p className="fs-6 mb-0 text-white">Satisfied Clients</p>
                     </div>
                   </div>
                 </div>
@@ -62,13 +62,13 @@ export default function Static2() {
                       <i className="ri-award-line text-primary-2" />
                       <h2 className="text-300 my-0 fs-50">
                         <CountUp
-                          className="odometer text-dark fw-medium"
+                          className="odometer text-white fw-medium"
                           enableScrollSpy={true}
                           end={2}
                         />
                         <span className="fs-50 text-300 mb-0">+</span>
                       </h2>
-                      <p className="fs-6 mb-0 text-dark">Awards Winner</p>
+                      <p className="fs-6 mb-0 text-white">Awards Winner</p>
                     </div>
                   </div>
                 </div>
