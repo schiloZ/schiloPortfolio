@@ -45,17 +45,17 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link" href="/services">
-                        Services
+                      <Link className="nav-link" href="#resume">
+                        Experience
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link" href="/work">
+                      <Link className="nav-link" href="#portfolio">
                         Portfolio
                       </Link>
                     </li>
                     <li className="nav-item">
-                      <Link className="nav-link" href="/#contact">
+                      <Link className="nav-link" href="#contact">
                         Contact
                       </Link>
                     </li>
