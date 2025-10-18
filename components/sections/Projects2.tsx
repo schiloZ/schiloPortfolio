@@ -78,9 +78,9 @@ export default function Projects2() {
                                 <li className="text-secondary-2 mb-3 border-bottom pb-3">
                                   Project Info
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Client
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -88,9 +88,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Completion Time
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -98,9 +98,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Technologies
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -175,9 +175,9 @@ export default function Projects2() {
                                 <li className="text-secondary-2 mb-3 border-bottom pb-3">
                                   Project Info
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Client
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -185,9 +185,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Completion Time
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -195,9 +195,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Technologies
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -272,9 +272,9 @@ export default function Projects2() {
                                 <li className="text-secondary-2 mb-3 border-bottom pb-3">
                                   Project Info
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Client
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -282,9 +282,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Completion Time
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -292,9 +292,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Technologies
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -368,9 +368,9 @@ export default function Projects2() {
                                 <li className="text-secondary-2 mb-3 border-bottom pb-3">
                                   Project Info
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Client
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -378,9 +378,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Completion Time
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -388,9 +388,9 @@ export default function Projects2() {
                                     </p>
                                   </div>
                                 </li>
-                                <li className="text-white mb-3 border-bottom pb-3">
+                                <li className="text-dark mb-3 border-bottom pb-3">
                                   <div className="d-flex justify-content-between">
-                                    <p className="text-white mb-0 text-end">
+                                    <p className="text-dark mb-0 text-end">
                                       Technologies
                                     </p>
                                     <p className="text-300 mb-0 text-end">
@@ -454,7 +454,7 @@ export default function Projects2() {
                       >
                         <path
                           d="M7.82843 10.9999H20V12.9999H7.82843L13.1924 18.3638L11.7782 19.778L4 11.9999L11.7782 4.22168L13.1924 5.63589L7.82843 10.9999Z"
-                          fill="white"
+                          fill="dark"
                         />
                       </svg>
                     </div>

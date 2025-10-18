@@ -77,22 +77,22 @@ export default function Experience2() {
                       Junior Software & AI Engineer
                     </h6>
                     <ul className="mt-4">
-                      <li className="text-white mb-3">
+                      <li className="text-dark mb-3">
                         Led development of scalable web applications,{" "}
                         <span className="text-secondary-2">
                           improving performance
                         </span>{" "}
                         and user experience for millions of users.
                       </li>
-                      <li className="text-white mb-3">
+                      <li className="text-dark mb-3">
                         Implemented machine learning algorithms to enhance
                         search functionality.
                       </li>
-                      <li className="text-white mb-3">
+                      <li className="text-dark mb-3">
                         Collaborated with cross-functional teams to integrate
                         new features seamlessly.
                       </li>
-                      <li className="text-white mb-3">
+                      <li className="text-dark mb-3">
                         Implemented AI algorithms to enhance a lot of
                         functionalities.
                       </li>

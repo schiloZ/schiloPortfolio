@@ -75,7 +75,7 @@ export default function Contact2() {
                     </div>
                   </form>
                 </div>
-                <div className="z-0 bg-primary-white rectangle-bg z-1 rounded-3" />
+                <div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
               </div>
             </div>
             <div className="col-lg-5 d-flex flex-column ps-lg-8">
