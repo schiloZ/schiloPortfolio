@@ -215,15 +215,15 @@ export default function Home2() {
           <img
             className="bg-w w-100 h-100"
             src="assets/imgs/home-page-2/hero-1/bg.png"
-            alt="zelio"
+            alt="zelia"
             style={{ objectFit: "cover" }}
           />
-          <img
+          {/* <img
             className="bg-d w-100 h-100"
             src="assets/imgs/home-page-2/hero-1/bg-white.png"
-            alt="zelio"
+            alt="zelia"
             style={{ objectFit: "cover" }}
-          />
+          /> */}
         </div>
       </section>
     </>

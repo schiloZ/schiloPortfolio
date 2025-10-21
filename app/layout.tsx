@@ -29,6 +29,9 @@ const dmMono = DM_Mono({
 
 export const metadata: Metadata = {
   title: "Schilon - Personal Portfolio ",
+  icons: {
+    icon: { url: "/favicon.svg", type: "image/svg+xml" },
+  },
   description:
     "Schilo.dev is a modern and creative personal portfolio for showcasing my work and skills.",
 };
