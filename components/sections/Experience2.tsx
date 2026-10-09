@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Experience2() {
   return (
     <>
-      <section id="portfolio" className="section-experience pt-5">
+      <section id="experience" className="section-experience pt-5">
         <div className="container">
           <div className="rounded-3 border border-1 position-relative overflow-hidden">
             <div className="box-linear-animation position-relative z-1">
@@ -21,7 +21,7 @@ export default function Experience2() {
                   </svg>
                   <span className="text-linear-4 d-flex align-items-center">
                     {" "}
-                    Expericence{" "}
+                    Experience{" "}
                   </span>
                 </div>
                 <h3>

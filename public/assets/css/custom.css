@@ -1,0 +1,55 @@
+/* Site-specific overrides (loaded after main.css) */
+
+/* Links: no default blue/underline on the dark theme */
+a,
+a:visited {
+  color: var(--tc-neutral-0);
+  text-decoration: none;
+}
+
+/* Typewriter greeting: was clipped to the first letter */
+.typewriter h1 {
+  color: #fff;
+  width: 18ch;
+  animation: typing-name 2.5s steps(15, end), blink-caret 0.75s step-end infinite;
+}
+@keyframes typing-name {
+  from {
+    width: 0;
+  }
+  to {
+    width: 18ch;
+  }
+}
+
+/* Bottom fade hid the last items of Education / Researched / Git Journaling */
+.bg-overlay {
+  display: none;
+}
+
+/* Primary buttons: green background, dark readable text */
+.btn-primary-2,
+.btn-primary-2:visited {
+  background-color: #a8ff53;
+  color: #111;
+  border: none;
+  padding: 0.75rem 1.5rem;
+}
+.btn-primary-2:hover,
+.btn-primary-2:focus {
+  background-color: #94e844;
+  color: #111;
+}
+
+/* Muted labels a bit lighter for readability */
+.text-300 {
+  color: #a8a8b3 !important;
+}
+
+/* In the template's dark theme .text-white resolves to #1f1f24 (near black) */
+.text-white {
+  color: #ffffff !important;
+}
+.text-400 {
+  color: #c4c4cc !important;
+}

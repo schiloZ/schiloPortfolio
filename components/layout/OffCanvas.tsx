@@ -24,7 +24,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
             </p>
             <div className="mb-3">
               <span className="text-400 fs-5">Phone Number</span>
-              <p className="mb-0">+225-05-84-1853-67</p>
+              <p className="mb-0">+225 05 84 18 53 67</p>
             </div>
             <div className="mb-3">
               <span className="text-400 fs-5">Email</span>
@@ -32,7 +32,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
             </div>
             <div className="mb-3">
               <span className="text-400 fs-5">Address</span>
-              <p className="mb-0">0000 Abidjan Cocody</p>
+              <p className="mb-0">Abidjan, Cocody — Côte d'Ivoire</p>
             </div>
           </div>
           <div className="contact-list">
@@ -44,10 +44,10 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
               {/* <Link href="/http://twitter.com">
                 <i className="ri-twitter-x-fill fs-18" />
               </Link> */}
-              <Link href="http://linkedin.com/in/schilo-ibo-786310249">
+              <Link href="https://www.linkedin.com/in/schilo-ibo-786310249/" target="_blank">
                 <i className="ri-linkedin-fill fs-18" />
               </Link>
-              <Link href="https://github.com/schiloZ">
+              <Link href="https://github.com/schiloZ" target="_blank">
                 <i className="ri-github-fill fs-18" />
               </Link>
             </div>

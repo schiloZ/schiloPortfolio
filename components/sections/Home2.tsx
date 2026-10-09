@@ -1,5 +1,13 @@
+"use client";
 import Link from "next/link";
+import CountUp from "react-countup";
 import Marquee from "react-fast-marquee";
+
+const stats = [
+  { icon: "ri-shape-line", value: 2, label: "Years Experience" },
+  { icon: "ri-computer-line", value: 20, label: "Projects Completed" },
+  { icon: "ri-service-line", value: 5, label: "Satisfied Clients" },
+];
 
 export default function Home2() {
   return (
@@ -21,7 +29,7 @@ export default function Home2() {
                     >
                       <img
                         src="assets/imgs/schilo.jpg"
-                        alt="zelio"
+                        alt="Schilo Zokou"
                         className="w-100 h-auto rounded-3"
                         style={{ objectFit: "cover" }}
                       />
@@ -100,6 +108,21 @@ export default function Home2() {
                         applications.
                       </p>
                       <span className="opacity-75">&lt;/p&gt;</span>
+                    </div>
+
+                    {/* Key numbers */}
+                    <div className="row g-3 mb-4">
+                      {stats.map((s) => (
+                        <div className="col-4" key={s.label}>
+                          <div className="bg-3 border border-1 rounded-3 p-3 h-100">
+                            <i className={`${s.icon} text-primary-2 fs-5`} />
+                            <h2 className="fs-lg-50 fs-32 fw-medium text-white my-1">
+                              <CountUp end={s.value} duration={2} />
+                            </h2>
+                            <p className="fs-7 text-300 mb-0">{s.label}</p>
+                          </div>
+                        </div>
+                      ))}
                     </div>
 
                     {/* Technology Stack Icons */}
@@ -202,6 +225,20 @@ export default function Home2() {
                     >
                       <i className="ri-download-line text-primary-2" />[
                       Download my CV ]
+                    </Link>
+                    <Link
+                      href="https://github.com/schiloZ"
+                      className="btn me-2 text-300 mt-3"
+                      target="_blank"
+                    >
+                      <i className="ri-github-fill text-primary-2" />[ GitHub ]
+                    </Link>
+                    <Link
+                      href="https://www.linkedin.com/in/schilo-ibo-786310249/"
+                      className="btn text-300 mt-3"
+                      target="_blank"
+                    >
+                      <i className="ri-linkedin-fill text-primary-2" />[ LinkedIn ]
                     </Link>
                   </div>
                 </div>

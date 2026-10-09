@@ -4,6 +4,7 @@ import "/public/assets/css/vendors/carouselTicker.css";
 import "/public/assets/css/vendors/magnific-popup.css";
 import "/public/assets/fonts/remixicon/remixicon.css";
 import "/public/assets/css/main.css";
+import "/public/assets/css/custom.css";
 
 import type { Metadata } from "next";
 import { Urbanist, Playfair_Display, DM_Mono } from "next/font/google";
@@ -28,12 +29,12 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Schilon - Personal Portfolio ",
+  title: "Schilo Zokou — Full Stack & AI Engineer",
   icons: {
     icon: { url: "/favicon.svg", type: "image/svg+xml" },
   },
   description:
-    "Schilo.dev is a modern and creative personal portfolio for showcasing my work and skills.",
+    "Portfolio of Schilo Zokou, Full Stack & AI Engineer based in Abidjan: web apps, SaaS and LLM-powered solutions.",
 };
 
 export default function RootLayout({

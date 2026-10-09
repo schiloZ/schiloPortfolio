@@ -13,17 +13,22 @@ export default function Footer2() {
                 <span className="fs-4 ms-2">Schilo.dev</span>
               </a>
               <div className="d-flex justify-content-center gap-3">
-                <a href="http://facebook.com">
-                  <i className="ri-facebook-circle-fill fs-18" />
-                </a>
-                <a href="http://twitter.com">
-                  <i className="ri-twitter-x-fill fs-18" />
-                </a>
-                <a href="http://linkedin.com">
+                <a
+                  href="https://www.linkedin.com/in/schilo-ibo-786310249/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <i className="ri-linkedin-fill fs-18" />
                 </a>
-                <a href="http://github.com">
+                <a
+                  href="https://github.com/schiloZ"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <i className="ri-github-fill fs-18" />
+                </a>
+                <a href="mailto:schilo127@gmail.com">
+                  <i className="ri-mail-fill fs-18" />
                 </a>
               </div>
               <div className="navigation d-flex align-items-center justify-content-center flex-wrap gap-4 my-4">
@@ -31,17 +36,21 @@ export default function Footer2() {
                   {" "}
                   About me{" "}
                 </a>
-                <a href="#resume" className="fs-6">
+                <a href="#experience" className="fs-6">
                   {" "}
-                  Resume{" "}
-                </a>
-                <a href="#services" className="fs-6">
-                  {" "}
-                  Services{" "}
+                  Experience{" "}
                 </a>
                 <a href="#portfolio" className="fs-6">
                   {" "}
-                  Portfolio{" "}
+                  Projects{" "}
+                </a>
+                <a href="#skills" className="fs-6">
+                  {" "}
+                  Skills{" "}
+                </a>
+                <a href="#resume" className="fs-6">
+                  {" "}
+                  Education{" "}
                 </a>
                 {/* <a href="#blog" className="fs-6">
                   {" "}

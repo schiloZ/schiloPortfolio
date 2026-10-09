@@ -47,18 +47,23 @@ export default function Header2({
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link className="nav-link" href="#resume">
-                          Resume
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link className="nav-link" href="#services">
-                          Services
+                        <Link className="nav-link" href="#experience">
+                          Experience
                         </Link>
                       </li>
                       <li className="nav-item">
                         <Link className="nav-link" href="#portfolio">
-                          Portfolio
+                          Projects
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link className="nav-link" href="#skills">
+                          Skills
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link className="nav-link" href="#resume">
+                          Education
                         </Link>
                       </li>
                       {/* <li className="nav-item">
@@ -82,10 +87,10 @@ export default function Header2({
                     <Link href="/http://twitter.com">
                       <i className="ri-twitter-x-fill fs-18" />
                     </Link> */}
-                    <Link href="http://linkedin.com/in/schilo-ibo-786310249">
+                    <Link href="https://www.linkedin.com/in/schilo-ibo-786310249/" target="_blank">
                       <i className="ri-linkedin-fill fs-18" />
                     </Link>
-                    <Link href="https://github.com/schiloZ">
+                    <Link href="https://github.com/schiloZ" target="_blank">
                       <i className="ri-github-fill fs-18" />
                     </Link>
                   </div>

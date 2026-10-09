@@ -11,7 +11,7 @@ export default function Contact2() {
               <div className="position-relative">
                 <div className="position-relative z-2">
                   <h3 className="text-primary-2 mb-3">Let’s connect</h3>
-                  <form action="#">
+                  <form action="mailto:schilo127@gmail.com" method="post" encType="text/plain">
                     <div className="row g-3">
                       <div className="col-md-6 ">
                         <input
@@ -39,7 +39,7 @@ export default function Contact2() {
                           className="form-control bg-3 border border-1 rounded-3"
                           id="email"
                           name="email"
-                          placeholder="Emaill"
+                          placeholder="Email"
                           aria-label="email"
                         />
                       </div>
@@ -90,7 +90,7 @@ export default function Contact2() {
                   <h6 className="mb-0">+225-05-84-18-53-67</h6>
                 </div>
                 <a
-                  href="tel:+1-234-567-8901"
+                  href="tel:+2250584185367"
                   className="position-absolute top-0 start-0 w-100 h-100"
                 />
               </div>
@@ -105,7 +105,7 @@ export default function Contact2() {
                   <h6 className="mb-0">schilo127@gmail.com</h6>
                 </div>
                 <a
-                  href="mailto:someone@example.com"
+                  href="mailto:schilo127@gmail.com"
                   className="position-absolute top-0 start-0 w-100 h-100"
                 />
               </div>
@@ -124,6 +124,40 @@ export default function Contact2() {
                   className="position-absolute top-0 start-0 w-100 h-100"
                 />
               </div> */}
+              <div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
+                <div className="d-inline-block">
+                  <div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
+                    <i className="ri-linkedin-fill text-primary-2 fs-26" />
+                  </div>
+                </div>
+                <div className="ps-3 h-100">
+                  <span className="text-400 fs-6">LinkedIn</span>
+                  <h6 className="mb-0">Schilo Zokou</h6>
+                </div>
+                <a
+                  href="https://www.linkedin.com/in/schilo-ibo-786310249/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="position-absolute top-0 start-0 w-100 h-100"
+                />
+              </div>
+              <div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
+                <div className="d-inline-block">
+                  <div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
+                    <i className="ri-github-fill text-primary-2 fs-26" />
+                  </div>
+                </div>
+                <div className="ps-3 h-100">
+                  <span className="text-400 fs-6">GitHub</span>
+                  <h6 className="mb-0">@schiloZ</h6>
+                </div>
+                <a
+                  href="https://github.com/schiloZ"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="position-absolute top-0 start-0 w-100 h-100"
+                />
+              </div>
               <div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
                 <div className="d-inline-block">
                   <div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">

@@ -23,7 +23,7 @@ export default function Skills2() {
                     </svg>
                     <span className="text-linear-4 d-flex align-items-center">
                       {" "}
-                      Projects{" "}
+                      Skills{" "}
                     </span>
                   </div>
                   <h3>My Skills</h3>

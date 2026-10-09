@@ -6,7 +6,7 @@ export default function Education2() {
           <div className="row">
             <div className="col-lg-6 pt-3">
               <div className="rounded-3 border border-1 position-relative h-100 overflow-hidden">
-                <div className="box-linear-animation p-md-6 p-3 ">
+                <div className="box-linear-animation p-md-6 p-3 h-100">
                   <div className="d-flex align-items-center">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -25,6 +25,21 @@ export default function Education2() {
                   </div>
                   <div className="d-flex flex-column h-100 position-relative mt-5">
                     <ul className="ps-3">
+                      <li className="position-relative z-1 mb-3">
+                        <div className="d-flex gap-2">
+                          <p className="text-300 text-nowrap fw-regular mb-0">
+                            2026 - Present:
+                          </p>
+                          <div>
+                            <span className="text-primary-2">
+                              Nottingham Trent University
+                            </span>
+                            <p className="text-white">
+                              Master’s Degree in Data Science (in progress)
+                            </p>
+                          </div>
+                        </div>
+                      </li>
                       <li className="position-relative z-1 mb-3">
                         <div className="d-flex gap-2">
                           <p className="text-300 text-nowrap fw-regular mb-0">
